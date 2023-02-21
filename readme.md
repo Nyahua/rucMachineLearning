@@ -3,6 +3,7 @@
 
 ## useful links
 - [textbook official site](http://www.crup.com.cn/Book/TextDetail?doi=fba229fd-7cd4-4e71-9828-56a0faf4c369)
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 - [An Introduction to Git and GitHub by Brian Yu in 20mins](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [Git and GitHub for Beginners Tutorial in 1 hour](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 - [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
